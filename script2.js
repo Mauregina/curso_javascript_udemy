@@ -3,6 +3,7 @@ function numeroAleatorio1(){
 }
 console.log(numeroAleatorio1())
 
+//Função anônima
 const numeroAleatorio2 = function(){
     return Math.random()
 }
