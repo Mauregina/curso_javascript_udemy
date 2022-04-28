@@ -59,3 +59,15 @@ console.log('largura considerando as bordas: ' + elemento.offsetWidth)
 console.log('altura considerando as bordas: ' + elemento.offsetHeight)
 console.log('largura: ' + elemento.clientWidth)
 console.log('altura: ' + elemento.clientHeight)
+
+console.log(elemento.getBoundingClientRect())
+
+setTimeout(function(){
+  elemento.style.color = 'blue'
+},1000)
+
+let itens = document.querySelectorAll('.itens-azuis')
+console.log(itens)
+itens[1].style.color = 'green'
+console.log(itens[1].style.color)
+
