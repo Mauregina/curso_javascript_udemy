@@ -24,3 +24,8 @@ sudo apt install nodejs
 ```sh
 sudo apt install npm
 ```
+
+Esse comando irá instalar todos pacotes que constam como dependencia no arquivo package.json
+```sh
+npm install
+```
