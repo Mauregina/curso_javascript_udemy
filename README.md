@@ -1,6 +1,7 @@
 # JavaScript do básico ao avançado (c/ Node.js e projetos)
+Material gerado durante curso sobre linguagem JavaScript. 
 
-## Material gerado durante curso sobre linguagem JavaScript. Alguns dos tópicos do curso são:
+## Tópicos do curso:
 
 - Tipos de dados e operadores lógicos;
 - Estruturas de programação;
