@@ -26,7 +26,12 @@ sudo apt install nodejs
 sudo apt install npm
 ```
 
-Esse comando irá instalar todos pacotes que constam como dependência no arquivo package.json (Express, Postman):
+Esse comando irá instalar todos pacotes que constam como dependência no arquivo package.json de um projeto Node já existente (Express, Postman):
 ```sh
 npm install
+```
+
+Esse comando inicia um novo projeto Node:
+```sh
+npm init
 ```
